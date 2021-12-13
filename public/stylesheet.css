@@ -1,0 +1,20 @@
+#header {
+    background-color: lightgray;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+h1 {
+    font-size: large;
+}
+
+label {
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+
+#graph {
+    width: 100%;
+    margin-top: 200px;
+}
